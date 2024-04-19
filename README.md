@@ -14,3 +14,5 @@ https://www.linkedin.com/posts/sadanandpai_github-sadanandpaifrontend-learning-k
 
 
 chrome dev tools
+
+https://web.dev/articles/critical-rendering-path/adding-interactivity-with-javascript
